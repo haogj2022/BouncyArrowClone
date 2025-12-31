@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: f54958626715ade40a61353d27deea8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MobBodyPart_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 884
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15c5f2154d510f44aa8b0daec893132
+      internalID: -1584406359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 881
+        width: 103
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53f79cd2b8ba8d478d1ac195ab3bd8b
+      internalID: -1248400179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 864
+        width: 121
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a0be938134eb4899123aa6c140d2d
+      internalID: 1398284174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 812
+        width: 143
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a709b397e040548a6b1f905d57b0cb
+      internalID: -1662266582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 767
+        width: 55
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac3783e8d6c2940bc4cb37618f6bf3
+      internalID: 134697823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 761
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50915824419f38e4ba1dfd8ebecbc9c7
+      internalID: 1853725017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 782
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c9d835587c4148a3ebc24e202214f
+      internalID: -433462555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 766
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315340403d3bda9458fee28943e9a70c
+      internalID: 172360233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 773
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224c4fe327074f149ae3158b6894ac5a
+      internalID: 1701990795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 775
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa7ae8dc753f5418467567b01282c1
+      internalID: 52620571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 747
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a69c75224241b4fbfafbfc939b2715
+      internalID: -98499798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 752
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd5aa7af006f846abef356d6214c59
+      internalID: -1561114767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 752
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa5f7d0790e02c4f8e587c1d016ab5c
+      internalID: -1524419940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 679
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5dcd49123a7242addb9d0202a28bf
+      internalID: 1468779762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 674
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fa0fe18b13db47b4e8b32891947a4
+      internalID: 2013402715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 732
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3803a149aebc964f950d682964581b7
+      internalID: -547278976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 731
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017c2f3d6c6ffe4ea27bdce17745b72
+      internalID: 220730991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 730
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b5e81a36ceb8e4fb546879806f06d6
+      internalID: -1799072601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 730
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348dee2f3195c94f8fd1bb4fbd38229
+      internalID: 449705542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 716
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1727557b8e196248a2ac5035e46d186
+      internalID: -204920046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 697
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9eebeb4b0933745b798be5fa37ef00
+      internalID: 1655486904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 698
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db42da9dcc9194a9e4d262681cccdd
+      internalID: -1534049022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 696
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e599472b779d49b953a3ad24dd264
+      internalID: -661879937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 697
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c764d6121afb5f4299c113445b03620
+      internalID: 1403927730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 698
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1390d16f73c8b438bf21098d2a2c0e
+      internalID: 1424994254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 698
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf80b2a2f88fe749a6a14ab06bda2a5
+      internalID: -1481748734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 570
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfedcf634a132541984582f9721863f
+      internalID: 2071851482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 668
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c6c474e6ea884eb535a13d7e15782
+      internalID: -373482455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 668
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae50eefe2d1ede4eacde40ac9670f61
+      internalID: 1093333005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 534
+        width: 115
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6175dbc9d4d2d649b19949f0979b599
+      internalID: 420037662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_30
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 534
+        width: 87
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a72f11189f0842b8920262679d2c3
+      internalID: 1069606864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 496
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e539880027ab4687b03c722ca9470
+      internalID: -1810874633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 435
+        width: 157
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b215f4856cee42a51034ed0be28c2
+      internalID: -2004574860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 355
+        width: 134
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c8a2c750537845ad4d1478b5c9496
+      internalID: -588978448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 393
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036ad1ce2f36795408a47b83e2fb76b5
+      internalID: -1435411076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 439
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837cc90539fa9aa4ea6785a527003fa7
+      internalID: -650561377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 312
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b59cd03d565343984a5b59f652d94
+      internalID: 1273669503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 305
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1fd88c3f962874b881acf21e59fd8e
+      internalID: -1692963194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 319
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb6e232d704fb4dac1d626d9c10260
+      internalID: -686367288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 249
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403a53e22819604986f319e18e81090
+      internalID: -1487762218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 132
+        width: 99
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec48ed143f3b824f8c16a217df5c3d1
+      internalID: -1533177233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 243
+        width: 114
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5503c2cc6ad4d7942b247a6209c65554
+      internalID: -1053972235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 199
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5759943905a90d42a4528c14a61f85d
+      internalID: 58488073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 245
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16331b762b667d54e9080599889cdaa4
+      internalID: 1040070369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 76
+        width: 115
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52af055f8b265114e9e3b0c65761d977
+      internalID: -1366262102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 67
+        width: 68
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4fc44aed52e94ab8dbd0fb4961c21
+      internalID: -1824732430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 175
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a252968f6251e41bcded4c3b419485
+      internalID: -391503661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 178
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5348db305beb6614dbea3e8291413593
+      internalID: 66853868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7813ce3395635ab48a749d6a17ee2622
+      internalID: 847556219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 75
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3e1fe73a43d940b6cfcc5c6336dd7
+      internalID: 1128413406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 109
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ac61b5c750be4baa11ff230e3e1d8
+      internalID: 892425134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_51
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 109
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd12bafda5155849b14c0810cb990fe
+      internalID: -1461381544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb76e4c9b3080943ba22b3338472cbc
+      internalID: -1168088978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af771688aa32434ab9eeb6129986f93
+      internalID: 1457782715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 7
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4e01156ebc044c8ffda7969f2bebb
+      internalID: -1670573288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MobBodyPart_55
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 7
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6ba3cc3e05804e94d558bda0e41c7
+      internalID: 1358452496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b5b1985f729445478bfedd33b9399b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MobBodyPart_0: -1584406359
+      MobBodyPart_1: -1248400179
+      MobBodyPart_10: -98499798
+      MobBodyPart_11: -1561114767
+      MobBodyPart_12: -1524419940
+      MobBodyPart_13: 1468779762
+      MobBodyPart_14: 2013402715
+      MobBodyPart_15: -547278976
+      MobBodyPart_16: 220730991
+      MobBodyPart_17: -1799072601
+      MobBodyPart_18: 449705542
+      MobBodyPart_19: -204920046
+      MobBodyPart_2: 1398284174
+      MobBodyPart_20: 1655486904
+      MobBodyPart_21: -1534049022
+      MobBodyPart_22: -661879937
+      MobBodyPart_23: 1403927730
+      MobBodyPart_24: 1424994254
+      MobBodyPart_25: -1481748734
+      MobBodyPart_26: 2071851482
+      MobBodyPart_27: -373482455
+      MobBodyPart_28: 1093333005
+      MobBodyPart_29: 420037662
+      MobBodyPart_3: -1662266582
+      MobBodyPart_30: 1069606864
+      MobBodyPart_31: -1810874633
+      MobBodyPart_32: -2004574860
+      MobBodyPart_33: -588978448
+      MobBodyPart_34: -1435411076
+      MobBodyPart_35: -650561377
+      MobBodyPart_36: 1273669503
+      MobBodyPart_37: -1692963194
+      MobBodyPart_38: -686367288
+      MobBodyPart_39: -1487762218
+      MobBodyPart_4: 134697823
+      MobBodyPart_40: -1533177233
+      MobBodyPart_41: -1053972235
+      MobBodyPart_42: 58488073
+      MobBodyPart_43: 1040070369
+      MobBodyPart_44: -1366262102
+      MobBodyPart_45: -1824732430
+      MobBodyPart_46: -391503661
+      MobBodyPart_47: 66853868
+      MobBodyPart_48: 847556219
+      MobBodyPart_49: 1128413406
+      MobBodyPart_5: 1853725017
+      MobBodyPart_50: 892425134
+      MobBodyPart_51: -1461381544
+      MobBodyPart_52: -1168088978
+      MobBodyPart_53: 1457782715
+      MobBodyPart_54: -1670573288
+      MobBodyPart_55: 1358452496
+      MobBodyPart_6: -433462555
+      MobBodyPart_7: 172360233
+      MobBodyPart_8: 1701990795
+      MobBodyPart_9: 52620571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
