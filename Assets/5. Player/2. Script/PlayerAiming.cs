@@ -4,8 +4,7 @@ public class PlayerAiming : MonoBehaviour
 {
     [SerializeField] private Transform LeftArm;
     [SerializeField] private Transform RightArm;
-    [SerializeField] private LineRenderer DotLine;
-    private float DotLineLength = 10f;
+    [SerializeField] private SpriteRenderer DotLine;
     private bool IsFacingRight = true;
 
     private void Update()
@@ -13,12 +12,17 @@ public class PlayerAiming : MonoBehaviour
         if (Input.GetMouseButton(0))
         {
             StartAiming();
-            ShowDotLine();
+        }
+
+        if (Input.GetMouseButtonUp(0))
+        {
+            DotLine.enabled = false;
         }
     }
 
     private void StartAiming()
     {
+        DotLine.enabled = true;
         Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector2 direction = (mousePosition - (Vector2)transform.position).normalized;
         float angle;
@@ -48,15 +52,5 @@ public class PlayerAiming : MonoBehaviour
         Vector3 localScale = transform.localScale;
         localScale.x *= -1;
         transform.localScale = localScale;
-    }
-
-    private void ShowDotLine()
-    {
-        DotLine.enabled = true;
-        DotLine.positionCount = 2;
-        Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        Vector2 direction = (mousePosition - (Vector2)LeftArm.position).normalized;
-        DotLine.SetPosition(0, LeftArm.position);
-        DotLine.SetPosition(1, mousePosition + direction * DotLineLength);
     }
 }
